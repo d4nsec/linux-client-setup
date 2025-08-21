@@ -9,6 +9,7 @@ Ziel ist es, eine standardisierte, nachvollziehbare und überprüfbare Konfigura
 
 ## 📂 Projektstruktur
 
+```
 linux-client-setup/
 ├── docs/ # Umsetzungsanleitung (Markdown/PDF)
 │ └── guide.md
@@ -19,6 +20,8 @@ linux-client-setup/
 │ └── test.yml
 ├── .gitignore
 └── README.md
+```
+
 
 ---
 
